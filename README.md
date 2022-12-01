@@ -1,1 +1,1 @@
-# Test
+Print("Hello world")
